@@ -1,2 +1,0 @@
-# jsCameraApp
-Created with CodeSandbox
